@@ -247,10 +247,8 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/ghoshdibakar03/ghoshdibakar03/output/snake.svg" alt="Snake animation" />
+![snake_gif](https://github.com/dibakarghosh03/dibakarghosh03/blob/output/snake.svg)
 
 ###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dibakarghosh03&" alt="dibakarghosh03" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dibakarghosh03&" alt="dibakarghosh03" /></p>
