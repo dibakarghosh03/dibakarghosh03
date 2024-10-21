@@ -251,4 +251,4 @@
 
 ###
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dibakarghosh03&" alt="dibakarghosh03" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dibakarghosh03&theme=radical" alt="dibakarghosh03" /></p>
