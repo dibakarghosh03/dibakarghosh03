@@ -17,6 +17,8 @@
 
 - 💬 Ask me about **React, Express, Hono, etc.**
 
+- 👨‍💻 All of my projects are available at [Portfolio](https://dibakar-ghosh-portfolio.vercel.app/)
+
 - 📫 How to reach me **ghoshdibakar81@gmail.com**
 
 - 📄 Know about my experiences [Click here](https://res.cloudinary.com/dlkgrlauh/image/upload/v1729225928/ldrbpyifz3haej8rp3kz.pdf)
