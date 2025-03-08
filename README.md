@@ -178,7 +178,7 @@
   </a>
   <a href="https://hono.dev" target="_blank" rel="noreferrer">
     <img
-      src="https://images.seeklogo.com/logo-png/49/1/hono-logo-png_seeklogo-499529.png"
+      src="https://hono.dev/images/logo.svg"
       alt="hono"
       width="40"
       height="40"
