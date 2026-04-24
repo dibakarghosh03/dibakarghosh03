@@ -4,8 +4,6 @@
 
 <h3 align="center">A passionate Web Developer from India</h3>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dibakarghosh03&theme=radical" alt="dibakarghosh03" /></a> </p>
-
 ###
 
 <div align="center">
@@ -27,12 +25,14 @@
 - 📄 Know about my experiences [Click here](https://res.cloudinary.com/dlkgrlauh/image/upload/v1729225928/ldrbpyifz3haej8rp3kz.pdf)
 
 - <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.facebook.com/people/Dibakar-Ghosh/pfbid0XMUdxfqzcAUUaACLECKVYMPjqL2r6jMeiomEWXEVU4tXbrER4WVYBZCsXgq15jKdl/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/2023_Facebook_icon.svg/900px-2023_Facebook_icon.svg.png?20231011122028" alt="dibakar_ghosh" height="40" width="40" /></a>
-<a href="https://linkedin.com/in/dibakar-ghosh-7227052b5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dibakar-ghosh-7227052b5" height="40" width="40" /></a>
-<a href="https://www.codechef.com/users/dibakar_81" target="blank"><img align="center" src="https://i.pinimg.com/736x/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="dibakar_81" height="40" width="40" /></a>
-<a href="https://www.leetcode.com/dibakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dibakar" height="40" width="40" /></a>
-</p>
+<table border="0" cellpadding="0" cellspacing="10">
+  <tr>
+    <td><a href="https://www.facebook.com/people/Dibakar-Ghosh/pfbid0XMUdxfqzcAUUaACLECKVYMPjqL2r6jMeiomEWXEVU4tXbrER4WVYBZCsXgq15jKdl/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" height="40" width="40" /></a></td>
+    <td><a href="https://linkedin.com/in/dibakar-ghosh-7227052b5" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" /></a></td>
+    <td><a href="https://www.codechef.com/users/dibakar_81" target="blank"><img src="https://i.pinimg.com/736x/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" height="40" width="40" /></a></td>
+    <td><a href="https://www.leetcode.com/dibakar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40" /></a></td>
+  </tr>
+</table>
 
 <img align="right" height="150" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"  />
 
