@@ -1,300 +1,101 @@
-<h1 align="center">
-  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="waving hand" width="30px">, I'm Dibakar Ghosh
-</h1>
+<div align="center">
 
-<h3 align="center">A passionate Web Developer from India</h3>
+# Dibakar Ghosh
 
-###
+**Backend & Systems Developer · MCA Student · India**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dibakar-ghosh-portfolio.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dibakar-ghosh-7227052b5/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Dibakar/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ghoshdibakar81@gmail.com)
+
+</div>
+
+---
+
+## About Me
+
+I'm a backend and systems developer who enjoys building things from the ground up — whether that's an HTTP server from raw TCP sockets, a full-text search engine that handles 650K+ documents, or a collaborative code editor with real-time sync.
+
+Currently pursuing my **MCA** and deep-diving into distributed systems, web applications, and high-performance backends. I like understanding *how* things work under the hood, not just using them.
+
+- 🔭 Currently building **CodeSphere** — a collaborative real-time coding environment
+- 🌱 Exploring **Next.js, Redis, GraphQL**, and distributed systems concepts
+- 💬 Ask me about **Go, Node.js, Express, WebSockets, databases**
+- 🧩 I enjoy solving problems on **LeetCode** and building CLI tools
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+
+**Backend & Frameworks**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+
+**Databases & ORMs**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+
+**Tools & DevOps**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+|---|---|---|
+| [**code-sphere**](https://github.com/dibakarghosh03/code-sphere) | Collaborative code editor with real-time compilation, chat & screen sharing | MERN · Socket.io · Monaco |
+| [**vibe-code-editor**](https://github.com/dibakarghosh03/vibe-code-editor) | Online coding environment with AI chat, real-time completions & WebContainers | Next.js · TypeScript · Monaco |
+| [**httpfromtcp**](https://github.com/dibakarghosh03/httpfromtcp) | HTTP/1.1 server built from scratch using raw TCP sockets & goroutines | Go |
+| [**termion-cli**](https://github.com/dibakarghosh03/termion-cli) | AI-powered CLI for chat, app generation, web search & code execution | TypeScript |
+| [**react-boot**](https://github.com/dibakarghosh03/react-boot) | CLI to scaffold Vite + React projects with TS, Tailwind & state management | JavaScript |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=dibakarghosh03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" alt="languages graph"  />
-</div>
 
-###
 
-- 🔭 I’m currently working on **CodeSphere**
+![Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=dibakarghosh03&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- 🌱 I’m currently learning **NextJS, Redis, GraphQL, etc.**
-
-- 💬 Ask me about **React, Express, Hono, etc.**
-
-- 👨‍💻 All of my projects are available at [Portfolio](https://dibakar-ghosh-portfolio.vercel.app/)
-
-- 📫 How to reach me **ghoshdibakar81@gmail.com**
-
-- 📄 Know about my experiences [Click here](https://res.cloudinary.com/dlkgrlauh/image/upload/v1729225928/ldrbpyifz3haej8rp3kz.pdf)
-
-- <h3 align="left">Connect with me:</h3>
-<table border="0" cellpadding="0" cellspacing="10">
-  <tr>
-    <td><a href="https://www.facebook.com/people/Dibakar-Ghosh/pfbid0XMUdxfqzcAUUaACLECKVYMPjqL2r6jMeiomEWXEVU4tXbrER4WVYBZCsXgq15jKdl/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/2021_Facebook_icon.svg" height="40" width="40" /></a></td>
-    <td><a href="https://linkedin.com/in/dibakar-ghosh-7227052b5" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="40" /></a></td>
-    <td><a href="https://www.codechef.com/users/dibakar_81" target="blank"><img src="https://i.pinimg.com/736x/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" height="40" width="40" /></a></td>
-    <td><a href="https://www.leetcode.com/dibakar" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="40" width="40" /></a></td>
-  </tr>
-</table>
-
-<img align="right" height="150" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"  />
-
-###
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-      alt="css3"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a
-    href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-    target="_blank"
-    rel="noreferrer"
-  >
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://go.dev/" target="_blank" rel="noreferrer">
-    <img
-      src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png"
-      alt="golang"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
-      alt="cplusplus"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg"
-      alt="redux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://recoiljs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.worldvectorlogo.com/logos/recoil-js.svg"
-      alt="recoil"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
-      alt="tailwind"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://d2nir1j4sou8ez.cloudfront.net/wp-content/uploads/2021/12/nextjs-boilerplate-logo.png"
-      alt="nextjs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://next-auth.js.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://next-auth.js.org/img/logo/logo-sm.png"
-      alt="next-auth"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.etatvasoft.com/public/images/express-main-logo-hexa.svg"
-      alt="express"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://hono.dev" target="_blank" rel="noreferrer">
-    <img
-      src="https://hono.dev/images/logo.svg"
-      alt="hono"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://graphql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"
-      alt="graphql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://socket.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://socket.io/images/logo-dark.svg"
-      alt="socket.io"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://mariadb.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg"
-      alt="mariadb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
-      alt="postgresql"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://mongoosejs.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://tsed.io/mongoose.png"
-      alt="mongoose"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.prisma.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://prismalens.vercel.app/header/logo-white.svg"
-      alt="prisma"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
-      alt="docker"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-      alt="postman"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-      alt="git"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img
-      src="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_1280.png"
-      alt="github"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
-      alt="linux"
-      width="40"
-      height="40"
-    />
-  </a>
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
-    <img
-      src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"
-      alt="jest"
-      width="40"
-      height="40"
-    />
-  </a>
-</p>
-
-###
-
-<div align="left">
+[![GitHub Streak](https://camo.githubusercontent.com/505503dd5fb80e19de63fe13f9add3e0e9fcfdc365ffda949dd6c220903a52a4/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d646962616b617267686f73683033267468656d653d7261646963616c)](https://git.io/streak-stats)
 
 </div>
 
-###
+---
 
-![snake_gif](https://github.com/dibakarghosh03/dibakarghosh03/blob/output/snake.svg)
+<div align="center">
 
-###
+![Snake animation](https://github.com/dibakarghosh03/dibakarghosh03/raw/output/snake.svg)
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dibakarghosh03&theme=radical" alt="dibakarghosh03" /></p>
+</div>
