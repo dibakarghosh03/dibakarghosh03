@@ -2,7 +2,7 @@
 
 # Dibakar Ghosh
 
-**Backend & Systems Developer · MCA Student · India**
+**Backend Developer · MCA Student · India**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://dibakar-ghosh-portfolio.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dibakar-ghosh-7227052b5/)
@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm a backend and systems developer who enjoys building things from the ground up — whether that's an HTTP server from raw TCP sockets, a full-text search engine that handles 650K+ documents, or a collaborative code editor with real-time sync.
+I'm a backend developer who enjoys building things from the ground up — whether that's an HTTP server from raw TCP sockets, a full-text search engine that handles 650K+ documents, or a collaborative code editor with real-time sync.
 
 Currently pursuing my **MCA** and deep-diving into distributed systems, web applications, and high-performance backends. I like understanding *how* things work under the hood, not just using them.
 
